@@ -1,4 +1,6 @@
-# COMP0035 2024-25 Computer practicals
+# Practice
+# Introduction
+This repository is for learning to use GitHub 
 
 This repository contains the practicals for the COMP0035 module for the academic year 2024-25.
 
